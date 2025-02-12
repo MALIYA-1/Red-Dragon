@@ -1,14 +1,14 @@
 <p align="center">
 <img src="./Android/database/K.Prabhasha.gif" alt="Loading..." width="320"/>
 <p align="center">
-<img src="i.ibb." alt="nz" width="350"/>
+<img src=https://github.com/Princessolya/Princess-Olya-Media-Files/blob/95a28b94a7459ac97f483af81f6d612b4196c80a/Logo.png"" alt="nz" width="350"/>
 </p>
 
 ## ◆━━❲ *Princess Olya 💙✨* ❳━━◆   Version 1.0.1
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝐖𝐞𝐥𝐜𝐨𝐦𝐞+𝐓𝐨+𝙍𝙀𝘿╺+𝘿𝙍𝘼𝙂𝙊𝙉+-+𝗕𝗢𝗧.;𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈:+𝚁𝙴𝙳+𝙳𝚁𝙰𝙶𝙾𝙽+𝚃𝙴𝙰𝙼;ℂ𝕣𝕖𝕒𝕥𝕖𝕕+𝕓𝕪:+𝙆.𝙋𝙧𝙖𝙗𝙝𝙖𝙨𝙝𝙖;𝐌𝐑:+☬𝔻𝔸ℝ𝕂༒ℕ𝕀𝕋ℝ𝕆࿐;💕ඉතිං+කොහොමද🙃;😁මොකද+කරන්නෙ🌹)](https://git.io/typing-svg)
 
-LATEST VERSION (2022-08-20) ([Whatsapp can't see messages]) [Fixed ]
+LATEST VERSION (2022-https://github.com/Princessolya/Princess-Olya-Media-Files/blob/95a28b94a7459ac97f483af81f6d612b4196c80a/Logo.png08-20) ([Whatsapp can't see messages]) [Fixed ]
 
 > [🔄Please Follow Me🤭](https://github.com/xcodejet)
 
