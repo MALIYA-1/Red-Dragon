@@ -1,7 +1,7 @@
 <p align="center">
 <img src="./Android/database/K.Prabhasha.gif" alt="Loading..." width="320"/>
 <p align="center">
-<img src="https://i.ibb.co/82zgjSR/20220926-155611.png" alt="nz" width="350"/>
+<img src="i.ibb." alt="nz" width="350"/>
 </p>
 
 ## ◆━━❲ *Princess Olya 💙✨* ❳━━◆   Version 1.0.1
