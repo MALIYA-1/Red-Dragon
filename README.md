@@ -11,7 +11,7 @@
 
 > [🔄𝗣𝗹𝗲𝗮𝘀𝗲 𝗙𝗼𝗹𝗹𝗼𝘄 𝗪𝗵𝗮𝘁𝘀𝗮𝗽𝗽 𝗖𝗵𝗮𝗻𝗻𝗲𝗹](https://whatsapp.com/channel/0029Vb69oZU2UPBQ4cdHIz20)
 
-<img src="https://github.com/Princessolya/Princess-Olya-Media-Files/blob/4f24acd496c3e812ad33c6a23b707e27c400dc15/teamlogo.png">" alt="Loading..." width="310"/>
+<img src="https://github.com/Princessolya/Princess-Olya-Media-Files/blob/4f24acd496c3e812ad33c6a23b707e27c400dc15/teamlogo.png">" width="310"/>
 
 # Powered By: XCODEJET
 
